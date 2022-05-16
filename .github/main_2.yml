@@ -33,4 +33,4 @@ jobs:
       - name: Run script
         run: |
           # main.pyの実行
-          python main_2.py
+          python wikipedia_random.py
